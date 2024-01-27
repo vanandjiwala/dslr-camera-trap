@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\BAPS\ELECTRIFY SERVICES\Jinay Shah - Hardware Projects\Hardware Projects\Camera Trap\Project\Camera Trap V2\Altium Files\Camera Trap.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=camprap_v2-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=camprap_v2-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=camprap_v2-roundholes-nonplated.txt|DrillLayers=gtl,gbl

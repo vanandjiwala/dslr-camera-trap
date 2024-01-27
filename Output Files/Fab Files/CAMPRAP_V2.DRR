@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Camera Trap.PcbDoc   6/10/2023  1:27:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : CAMPRAP_V2-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : CAMPRAP_V2-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : CAMPRAP_V2-SlotHoles-Plated.TXT
+EIA File   : CAMPRAP_V2.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T2      22mil (0.55mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T5      36mil (0.914mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Round             41        PTH        0.00inch (0.00mm)
+T7      40mil (1.02mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T8      80mil (2.032mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T9      157mil (4mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T10     59mil (1.5mm)                                             Round             4         NPTH       0.00inch (0.00mm)
+T11     157mil (4mm)                                              Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00

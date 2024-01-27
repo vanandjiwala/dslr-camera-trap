@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Camera Trap.PcbDoc]
+   Generated File[CAMPRAP_V2-RoundHoles-Plated.TXT]
+   Generated File[CAMPRAP_V2-RoundHoles-NonPlated.TXT]
+   Generated File[CAMPRAP_V2-SlotHoles-Plated.TXT]
+   Generated File[CAMPRAP_V2.DRL]
+   Generated File[CAMPRAP_V2.LDP]
+   Generated File[CAMPRAP_V2.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 1:27:40 PM On 6/10/2023

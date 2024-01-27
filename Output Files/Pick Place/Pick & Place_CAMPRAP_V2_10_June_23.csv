@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\BAPS\ELECTRIFY SERVICES\Jinay Shah - Hardware Projects\Hardware Projects\Camera Trap\Project\Camera Trap V2\Altium Files\Project Outputs for Free Documents\Pick Place\Pick Place\Pick & Place_CAMPRAP_V2_10_June_23.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/06/23
+Time:       13:29
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Value","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"ZD4","","TopLayer","45.8000mm","85.4000mm","180","SML4733 5.1V 1W Zener Diode DO-214AC (SMA) SMD"
+"ZD3","","TopLayer","39.0000mm","16.0000mm","180","SML4733 5.1V 1W Zener Diode DO-214AC (SMA) SMD"
+"ZD2","","TopLayer","28.8000mm","16.0000mm","360","SML4733 5.1V 1W Zener Diode DO-214AC (SMA) SMD"
+"ZD1","","TopLayer","51.9000mm","51.1000mm","270","BZX84-C12 NXP 12V 250mW SOT23 Zener Diode"
+"TP6","","TopLayer","41.7000mm","10.3000mm","0",""
+"TP5","","TopLayer","21.5000mm","16.0000mm","0",""
+"TP4","","TopLayer","52.5000mm","15.9000mm","0",""
+"TP3","","TopLayer","41.7000mm","6.2000mm","0",""
+"TP2","","TopLayer","21.5000mm","11.5000mm","0",""
+"TP1","","TopLayer","3.9000mm","6.4000mm","0",""
+"S3","","TopLayer","13.0500mm","82.0500mm","0","4 Way 2.54MM DIP switch"
+"R7","1K","TopLayer","11.8500mm","71.4000mm","270","100K 1% 0603"
+"R6","1K","TopLayer","14.3500mm","71.4000mm","270","100K 1% 0603"
+"R5","1K","TopLayer","9.3500mm","71.4000mm","270","100K 1% 0603"
+"R4","1K","TopLayer","16.9500mm","71.4000mm","270","100K 1% 0603"
+"R3","47K","TopLayer","50.6000mm","43.5000mm","270","47K 1% 0603"
+"R2","100K","TopLayer","53.1000mm","43.5000mm","90","100K 1% 0603"
+"R1","100K","TopLayer","48.4000mm","51.1000mm","90","47K 1% 0603"
+"Q1","","TopLayer","50.7000mm","59.1200mm","90","IRFR5305TRPBF (31A 55V) IRFR5305 TO252 P-CH MOSFET"
+"J4","","TopLayer","49.2500mm","6.5500mm","90","Stereo Socket 3.5mm PCB Mount SMD"
+"J3","","TopLayer","11.3000mm","6.6500mm","90","Stereo Socket 3.5mm PCB Mount SMD"
+"J2","","TopLayer","8.8000mm","62.3300mm","270","2 pin Header"
+"J1","","TopLayer","53.1000mm","27.4000mm","270","2 pin Header"
+"CN4","","TopLayer","41.9500mm","90.6125mm","180","MicroUSB Connector with through hole"
+"CN3","","TopLayer","28.8500mm","28.1200mm","90","Pro Mini - ATMEGA 328P - 5V 16Mhz - Compatible Board"
+"CN2","","TopLayer","29.0000mm","49.6800mm","0","PIR Motion Detection Sensor HC-SR501"
+"CN1","","BottomLayer","39.6368mm","46.7500mm","180","6x AAA cell"
+"C6","100nF","TopLayer","43.3000mm","80.8000mm","270","100nF 104 0603 (1608 metric) 50V X7R MLCC"
+"+9V","","TopLayer","53.1000mm","47.2000mm","0",""
+"+5V_USB","","TopLayer","40.0000mm","81.7000mm","90",""
